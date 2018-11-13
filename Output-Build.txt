@@ -1,0 +1,3 @@
+﻿------ Build started: Project: AdmissionWebApplication, Configuration: Debug Any CPU ------
+  AdmissionWebApplication -> C:\Users\hasnat\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\AdmissionWebApplication.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

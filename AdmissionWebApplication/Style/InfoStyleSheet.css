@@ -1,0 +1,162 @@
+﻿ body
+        {
+            background-color: #303030; 
+            background-image: url(../images/page_background.jpg);
+            color: #630;
+            font-family: helvetica;
+        }
+        
+        .h2
+        {
+             background-color: #D0D0D0;   
+        }
+        
+        .style1
+        {
+            width: 100%;
+            border: 1px solid #808000;
+            background-color: #D0D0D0;
+        }
+        .style10
+        {
+            width: 130px;
+        }
+        .style11
+        {
+            width: 176px;
+        }
+        .style15
+        {
+            width: 372px;
+            height: 18px;
+        }
+                
+        .me
+        {
+            height: 252px;
+            width: 840px;
+            background: #eee;
+            color: teal;
+            margin-top: 120px;
+            border-radius: 4px;
+            -moz-border-radius: 4px;
+            transition: all 1s ease-in-out;
+            -webkit-transition: all 1s ease-in-out;
+            -moz-transition: all 1s ease-in-out;
+            padding: 20px;
+             margin-left: auto;
+             margin-right: auto;
+             margin-bottom: 10px;
+}
+        .me:hover
+        {
+            transition: all 1s ease-in-out;
+            -webkit-transition: all 1s ease-in-out;
+            -moz-transition: all 1s ease-in-out;
+            transform: scale(1.02);
+            -ms-transform: scale(1.02); /* IE 9 */
+            -webkit-transform: scale(1.02); /* Safari and Chrome */
+            -o-transform: scale(1.02); /* Opera */
+            -moz-transform: scale(1.02); /* Firefox */
+            background: aliceblue;
+            -webkit-border-radius: 4px;
+            box-shadow: 10px 10px 5px #888888;
+            -webkit-box-shadow: 10px 10px 5px #888888; /* Safari */
+        } 
+        
+         .me1
+        {
+            height: 446px;
+            width: 840px;
+            background: #eee;
+            color: teal;
+            margin: 10px auto;
+            border-radius: 4px;
+            -moz-border-radius: 4px;
+            transition: all 1s ease-in-out;
+            -webkit-transition: all 1s ease-in-out;
+            -moz-transition: all 1s ease-in-out;
+            padding: 20px;
+        }
+        .me1:hover
+        {
+            transition: all 1s ease-in-out;
+            -webkit-transition: all 1s ease-in-out;
+            -moz-transition: all 1s ease-in-out;
+            transform: scale(1.02);
+            -ms-transform: scale(1.02); /* IE 9 */
+            -webkit-transform: scale(1.02); /* Safari and Chrome */
+            -o-transform: scale(1.02); /* Opera */
+            -moz-transform: scale(1.02); /* Firefox */
+            background: aliceblue;
+            -webkit-border-radius: 4px;
+            box-shadow: 10px 10px 5px #888888;
+            -webkit-box-shadow: 10px 10px 5px #888888; /* Safari */
+        }
+        .style18
+        {
+            width: 100%;
+            border: 1px solid #808000;
+            background-color: #D0D0D0;
+            height: 301px;
+        }
+        .style19
+        {
+            height: 29px;
+        }
+        .style24
+        {
+            width: 372px;
+            height: 29px;
+        }
+        .style25
+        {
+            height: 18px;
+            width: 169px;
+        }
+        .style26
+        {
+            width: 372px;
+            height: 26px;
+        }
+        .style27
+        {
+            height: 26px;
+        }
+        .style28
+        {
+            width: 372px;
+            height: 27px;
+        }
+        .style29
+        {
+            height: 27px;
+        }
+        .style30
+        {
+}
+        .style31
+        {
+            height: 26px;
+            width: 169px;
+        }
+        .style32
+        {
+            height: 27px;
+            width: 169px;
+        }
+        .style33
+        {
+            height: 29px;
+            width: 169px;
+        }
+        .style34
+        {
+            width: 393px;
+            height: 26px;
+        }
+        .style35
+        {
+            width: 393px;
+            height: 27px;
+        }

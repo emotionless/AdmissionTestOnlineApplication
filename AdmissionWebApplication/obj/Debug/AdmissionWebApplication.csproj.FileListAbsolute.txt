@@ -1,0 +1,140 @@
+c:\users\shahriar\documents\visual studio 2010\Projects\AdmissionWebApplication\AdmissionWebApplication\bin\AdmissionWebApplication.dll
+c:\users\shahriar\documents\visual studio 2010\Projects\AdmissionWebApplication\AdmissionWebApplication\bin\AdmissionWebApplication.pdb
+c:\users\shahriar\documents\visual studio 2010\Projects\AdmissionWebApplication\AdmissionWebApplication\obj\Debug\AdmissionWebApplication.dll
+c:\users\shahriar\documents\visual studio 2010\Projects\AdmissionWebApplication\AdmissionWebApplication\obj\Debug\AdmissionWebApplication.pdb
+C:\Users\SHAHRIAR\Documents\Visual Studio 2010\Projects\AdmissionWebApplication\AdmissionWebApplication\obj\Debug\AdmissionWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\hasnat\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\AdmissionWebApplication.dll
+C:\Users\hasnat\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\AdmissionWebApplication.pdb
+C:\Users\hasnat\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hasnat\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\obj\Debug\AdmissionWebApplication.dll
+C:\Users\hasnat\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\obj\Debug\AdmissionWebApplication.pdb
+C:\Users\hasnat\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\AjaxControlToolkit.dll
+C:\Users\hasnat\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\hasnat\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\HtmlAgilityPack.dll
+C:\Users\hasnat\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\AjaxMin.dll
+C:\Users\hasnat\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\AjaxControlToolkit.pdb
+C:\Users\hasnat\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\hasnat\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\hasnat\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\hasnat\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\hasnat\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\hasnat\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\hasnat\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\hasnat\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\hasnat\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\hasnat\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\hasnat\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\hasnat\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\hasnat\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\hasnat\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\hasnat\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\hasnat\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\hasnat\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\AdmissionWebApplication.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\AdmissionWebApplication.pdb
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\AjaxControlToolkit.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\HtmlAgilityPack.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\AjaxMin.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\AjaxControlToolkit.pdb
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\obj\Debug\AdmissionWebApplication.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(setu)\AdmissionWebApplication\obj\Debug\AdmissionWebApplication.pdb
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\AdmissionWebApplication.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\AdmissionWebApplication.pdb
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\AjaxControlToolkit.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\HtmlAgilityPack.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\AjaxMin.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\AjaxControlToolkit.pdb
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(milon)\AdmissionWebApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(milon)\AdmissionWebApplication\obj\Debug\AdmissionWebApplication.dll
+C:\Users\Faruk Hossain Milon\Desktop\AdmissionWebApplication(milon)\AdmissionWebApplication\obj\Debug\AdmissionWebApplication.pdb
+C:\Users\Faruk Hossain Milon\Desktop\Group2(839,852,848,857,2183)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\AdmissionWebApplication.dll
+C:\Users\Faruk Hossain Milon\Desktop\Group2(839,852,848,857,2183)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\AdmissionWebApplication.pdb
+C:\Users\Faruk Hossain Milon\Desktop\Group2(839,852,848,857,2183)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\AjaxControlToolkit.dll
+C:\Users\Faruk Hossain Milon\Desktop\Group2(839,852,848,857,2183)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Faruk Hossain Milon\Desktop\Group2(839,852,848,857,2183)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\HtmlAgilityPack.dll
+C:\Users\Faruk Hossain Milon\Desktop\Group2(839,852,848,857,2183)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\AjaxMin.dll
+C:\Users\Faruk Hossain Milon\Desktop\Group2(839,852,848,857,2183)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\AjaxControlToolkit.pdb
+C:\Users\Faruk Hossain Milon\Desktop\Group2(839,852,848,857,2183)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Faruk Hossain Milon\Desktop\Group2(839,852,848,857,2183)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\Group2(839,852,848,857,2183)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\Group2(839,852,848,857,2183)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\Group2(839,852,848,857,2183)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\Group2(839,852,848,857,2183)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\Group2(839,852,848,857,2183)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\Group2(839,852,848,857,2183)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\Group2(839,852,848,857,2183)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\Group2(839,852,848,857,2183)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\Group2(839,852,848,857,2183)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\Group2(839,852,848,857,2183)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\Group2(839,852,848,857,2183)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\Group2(839,852,848,857,2183)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\Group2(839,852,848,857,2183)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\Group2(839,852,848,857,2183)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\Group2(839,852,848,857,2183)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Faruk Hossain Milon\Desktop\Group2(839,852,848,857,2183)\AdmissionWebApplication(milon)\AdmissionWebApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Faruk Hossain Milon\Desktop\Group2(839,852,848,857,2183)\AdmissionWebApplication(milon)\AdmissionWebApplication\obj\Debug\AdmissionWebApplication.dll
+C:\Users\Faruk Hossain Milon\Desktop\Group2(839,852,848,857,2183)\AdmissionWebApplication(milon)\AdmissionWebApplication\obj\Debug\AdmissionWebApplication.pdb
+D:\Project\project32\Group2(110358, 110377, 110368, 110372, 110347)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\AdmissionWebApplication.dll
+D:\Project\project32\Group2(110358, 110377, 110368, 110372, 110347)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\AdmissionWebApplication.pdb
+D:\Project\project32\Group2(110358, 110377, 110368, 110372, 110347)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\AjaxControlToolkit.dll
+D:\Project\project32\Group2(110358, 110377, 110368, 110372, 110347)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\Microsoft.WindowsAzure.Storage.dll
+D:\Project\project32\Group2(110358, 110377, 110368, 110372, 110347)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\HtmlAgilityPack.dll
+D:\Project\project32\Group2(110358, 110377, 110368, 110372, 110347)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\AjaxMin.dll
+D:\Project\project32\Group2(110358, 110377, 110368, 110372, 110347)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\AjaxControlToolkit.pdb
+D:\Project\project32\Group2(110358, 110377, 110368, 110372, 110347)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\Microsoft.WindowsAzure.Storage.xml
+D:\Project\project32\Group2(110358, 110377, 110368, 110372, 110347)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\ar\AjaxControlToolkit.resources.dll
+D:\Project\project32\Group2(110358, 110377, 110368, 110372, 110347)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\cs\AjaxControlToolkit.resources.dll
+D:\Project\project32\Group2(110358, 110377, 110368, 110372, 110347)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\de\AjaxControlToolkit.resources.dll
+D:\Project\project32\Group2(110358, 110377, 110368, 110372, 110347)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\es\AjaxControlToolkit.resources.dll
+D:\Project\project32\Group2(110358, 110377, 110368, 110372, 110347)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\fr\AjaxControlToolkit.resources.dll
+D:\Project\project32\Group2(110358, 110377, 110368, 110372, 110347)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\he\AjaxControlToolkit.resources.dll
+D:\Project\project32\Group2(110358, 110377, 110368, 110372, 110347)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\hi\AjaxControlToolkit.resources.dll
+D:\Project\project32\Group2(110358, 110377, 110368, 110372, 110347)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\it\AjaxControlToolkit.resources.dll
+D:\Project\project32\Group2(110358, 110377, 110368, 110372, 110347)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\ja\AjaxControlToolkit.resources.dll
+D:\Project\project32\Group2(110358, 110377, 110368, 110372, 110347)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\ko\AjaxControlToolkit.resources.dll
+D:\Project\project32\Group2(110358, 110377, 110368, 110372, 110347)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\nl\AjaxControlToolkit.resources.dll
+D:\Project\project32\Group2(110358, 110377, 110368, 110372, 110347)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\pt\AjaxControlToolkit.resources.dll
+D:\Project\project32\Group2(110358, 110377, 110368, 110372, 110347)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\ru\AjaxControlToolkit.resources.dll
+D:\Project\project32\Group2(110358, 110377, 110368, 110372, 110347)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\Project\project32\Group2(110358, 110377, 110368, 110372, 110347)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\Project\project32\Group2(110358, 110377, 110368, 110372, 110347)\AdmissionWebApplication(milon)\AdmissionWebApplication\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\Project\project32\Group2(110358, 110377, 110368, 110372, 110347)\AdmissionWebApplication(milon)\AdmissionWebApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\project32\Group2(110358, 110377, 110368, 110372, 110347)\AdmissionWebApplication(milon)\AdmissionWebApplication\obj\Debug\AdmissionWebApplication.dll
+D:\Project\project32\Group2(110358, 110377, 110368, 110372, 110347)\AdmissionWebApplication(milon)\AdmissionWebApplication\obj\Debug\AdmissionWebApplication.pdb
